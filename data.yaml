@@ -1,0 +1,7 @@
+nc: # numbers of class or objects
+names: ['# names of each class']
+
+train: # path to images in train images ../train/images
+val: # path to images in valid images ../valid/images
+test: # path to images in test images ../train/images
+
